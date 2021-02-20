@@ -1,6 +1,6 @@
 {
   "name": "@jsilva-pt/nuxt-content-theme-blog-gsfork",
-  "version": "0.5.0-gsf1",
+  "version": "0.5.0-gsf1.0",
   "description": "A blog theme for NuxtJS Content",
   "main": "nuxt.js",
   "publishConfig": {
