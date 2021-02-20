@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.5.0-gsf1.1 (2021-02-20)
+
+
+### Bug Fixes
+
+* **deps:** bump vue-observe-visibility from 0.4.6 to 1.0.0 ([#28](https://github.com/ArsalaBangash/nuxt-content-theme-blog/issues/28)) ([54fb027](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/54fb02707736503b6789270c97c69af8d27d779a))
+* blog post display date ([09a4633](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/09a4633dbe9ee367bd698eab3ebf6dfce7455b9c))
+* components override ([628a4bb](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/628a4bb2da7e52b7facf1962814b939b48886177))
+* dependencies ([980681e](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/980681eb7c5489642ba3008d22f0efa0cf712f30))
+* get default hashtags, examples published date ([e3c3ba9](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/e3c3ba98ee4ffe760429ac7c19289868107e69cf))
+* google font ([5402b4b](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/5402b4b37d42345a9d809b80490291610815234b))
+* seo fixes and improvements ([508b6e4](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/508b6e46a49a5ae655991161325bef3ad9ea935d))
+* typo ([fdf79d2](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/fdf79d25021f342d52bf1d3e0ad4f578ca7bf1e6))
+
+
+### Features
+
+* basic feed, sitemap generation ([a019181](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/a019181aae6e7b727a127db42bb1cfe19acff3d5))
+* basic structure for nuxt content theme blog ([df916cd](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/df916cde7cd5d404a64ae572b366f72daf22e873))
+* docs and create-nuxt-blog package ([#18](https://github.com/ArsalaBangash/nuxt-content-theme-blog/issues/18)) ([d748003](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/d748003236ace2e129349234aa3a80dee635ec38))
+* improve theme, cli, examples and docs ([#21](https://github.com/ArsalaBangash/nuxt-content-theme-blog/issues/21)) ([df413a8](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/df413a8d0b7c0e543202009e5252914f5aee03aa))
+* improved cli, docs and examples. added default template example ([#24](https://github.com/ArsalaBangash/nuxt-content-theme-blog/issues/24)) ([9421b4e](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/9421b4ed44ce802822f5dee6de2a2a6d83ec1f57))
+* rename publishedTime to publishedAt and imgUrl to image. Docs improved ([dfb6ff9](https://github.com/ArsalaBangash/nuxt-content-theme-blog/commit/dfb6ff946ccbb03d6391d8b7cb52aa30cb169b4a)), closes [#26](https://github.com/ArsalaBangash/nuxt-content-theme-blog/issues/26)
+
+
+
+
+
 # 0.5.0-gsf1.0 (2021-02-20)
 
 
