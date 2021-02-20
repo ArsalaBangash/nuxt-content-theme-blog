@@ -1,6 +1,6 @@
 {
-  "name": "create-nuxt-blog",
-  "version": "0.3.1",
+  "name": "create-nuxt-blog-gsfork",
+  "version": "0.3.1-gsf1",
   "license": "MIT",
   "files": [
     "src",
