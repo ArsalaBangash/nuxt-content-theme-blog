@@ -1,10 +1,6 @@
 {
   "name": "root",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com:jsilva-pt/nuxt-content-theme-blog.git"
-  },
   "workspaces": [
     "packages/*",
     "examples/*",

@@ -1,5 +1,5 @@
 {
-  "name": "@jsilva-pt/nuxt-content-theme-blog-gsfork",
+  "name": "nuxt-content-theme-blog-gsfork",
   "version": "0.5.0-gsf1.0",
   "description": "A blog theme for NuxtJS Content",
   "main": "nuxt.js",
@@ -31,5 +31,6 @@
     "sass-loader": "^10.1.0",
     "vue-observe-visibility": "^1.0.0",
     "vue-social-sharing": "^3.0.4"
-  }
+  },
+  "gitHead": "be9792d20f4b63129ff9017bae435a41526a2c2e"
 }
